@@ -55,4 +55,4 @@ ax.set_xlabel("País")
 ax.set_ylabel("Exportaciones (USD millones)")
 ax.set_title(f"Exportaciones de Chocolates en {pais_seleccionado}")
 plt.xticks(rotation=45)
-st.pyplot(fig
+st.pyplot(fig 2)
